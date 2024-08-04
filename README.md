@@ -10,7 +10,7 @@ Our first step was to make the best use of the available data, i.e. NSL-KDD, and
 The experimental results show the need for proper manipulation of these features to reduce the overhead in modelling the IDS. scores. We got recall score of 0.9904 through LSTM .
 
 # Running the Notebook
-The notebook can be run on
+The notebook can be run on Google Colaboratory or Jupyter Notebook
 
 # Google Colaboratory
 Jupyter Notebook
